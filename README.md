@@ -1,6 +1,8 @@
 # ForecastingProphet
 
-This is a time series analyis and sales forecasting proejct for an eCommerce company. The results are hosted in a [live dashboard](https://datapane.com/reports/0AEvM03/sales-forecasting-for-ecommerce/) on Datapane.
+This is a time series analysis and sales forecasting project for an eCommerce company. 
+
+[Reporting Dashboard](https://datapane.com/reports/0AEvM03/sales-forecasting-for-ecommerce/)
 
 ---
 
