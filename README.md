@@ -26,4 +26,4 @@ The sales forecast for Q3 2020 is $970 million. There is a 95% likelihood that i
 
 ## Action ## 
 
-We recommend three initiatives to accelerate growth. First, upsell customers actively searching for products by using targeted promotions and product recommendations to incentivize them to increase their shopping carts. Second, launch heavy sales in June to clear inventory and win back lapsed customers. Third, reallocate some of the Q3 marketing budget to Q4 to maximize impact and put less pressure on margins in Q3.
+We recommend three initiatives. First, upsell customers actively searching for products by using targeted promotions and product recommendations to incentivize them to increase their shopping carts. Second, launch heavy sales in June to clear inventory and win back lapsed customers. Third, reallocate some of the Q3 marketing budget to Q4 to maximize impact and put less pressure on margins in Q3.
