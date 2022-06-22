@@ -2,7 +2,7 @@
 
 This is a time series analysis and sales forecasting project for an eCommerce company. 
 
-[Reporting Dashboard](https://datapane.com/reports/0AEvM03/sales-forecasting-for-ecommerce/)
+[Live Dashboard](https://datapane.com/reports/0AEvM03/sales-forecasting-for-ecommerce/)
 
 ---
 
