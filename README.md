@@ -8,7 +8,7 @@ This is a time series analysis and sales forecasting project for an eCommerce co
 
 ## Problem ##
 
-The ability to make accurate predictions of future revenue is extremely important for eCommerce companies as sales and margins fluctuate throughout the year. This LatAm eCommerce business tends to underperform in Q3 and is looking for insights to optimize marketing spend, product planning, and staffing levels. To combat this problem, we mine financial and user data for seasonality and forecast quarterly revenue and search traffic using Prophet. Re 
+The ability to make accurate predictions of future revenue is extremely important for eCommerce companies as sales and margins fluctuate throughout the year. This LatAm eCommerce business tends to underperform in Q3 and is looking for insights to optimize marketing spend, product planning, and staffing levels. To combat this problem, we mine financial and user data for seasonality and forecast quarterly revenue and search traffic using Prophet.
 
 ## Question ##
 
